@@ -1,0 +1,23 @@
+name: "Hannahwebsite"
+title: "Hannah"
+description: |
+  My Website
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "CV"  
+      href: pdfs/mycv.pdf
+
+    - icon: fa fa-linkedin
+      href: https://www.linkedin.com/in/hanxian-xie
+    - icon: fa fa-envelope
+      href: mailto:hannahxie@outlook.com
+
+output: distill::distill_article
+
+site: distill::distill_website
+

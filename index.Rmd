@@ -1,0 +1,44 @@
+---
+title: "Hanxian(Hannah) Xie"
+description: |
+  Welcome to the website. I hope you enjoy it!
+
+image: "Hannah.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/hanxian-xie/"
+  - label: Email
+    url: "mailto:hannahxie@outlook.com"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:usethis::use_github()
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+
+ 
+## About me
+
+My name is Xie Hanxian. I am a senior student from University of Toronto, major in statistics, minor in mathematics and psychology. I have in-depth academic preparation in marketing analysis techniques and good at data collection and analysis of market information feedback.
+
+## Education
+
+**University of Toronto** | Toronto, Canada
+
+B.S. in Statisics | September 2017 - June 2022
+
+## Experience
+
+**RealMaster Technology Inc.** | Sales Representative | Jan 2018 - Mar 2018
+
+**China International Beauty Expo** | Marketing Assistant | Mar 2017 

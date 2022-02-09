@@ -1,0 +1,35 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-02-03T15:29:06-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Hanxian(Hannah) Xie",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\n          \n          \n          Hannah\n          \n          \n          Home\n          About\n          CV\n          \n          \n          \n          \n          \n          \n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Hanxian(Hannah) Xie\n            \n            \n              \n                \n                    \n                      \n                        LinkedIn\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            About me\n            My name is Xie Hanxian. I am a senior student from University of Toronto, major in statistics, minor in mathematics and psychology. I have in-depth academic preparation in marketing analysis techniques and good at data collection and analysis of market information feedback.\n            \n            \n            Education\n            University of Toronto | Toronto, Canada\n            B.S. in Statisics | September 2017 - June 2022\n            \n            \n            Experience\n            RealMaster Technology Inc. | Sales Representative | Jan 2018 - Mar 2018\n            China International Beauty Expo | Marketing Assistant | Mar 2017\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Hanxian(Hannah) Xie\n            \n            \n              \n                \n                                    \n                    \n                      LinkedIn\n                    \n                  \n                                    \n                    \n                      Email\n                    \n                  \n                                  \n              \n            \n            \n              \n              About me\n              My name is Xie Hanxian. I am a senior student from University of Toronto, major in statistics, minor in mathematics and psychology. I have in-depth academic preparation in marketing analysis techniques and good at data collection and analysis of market information feedback.\n              \n              \n              Education\n              University of Toronto | Toronto, Canada\n              B.S. in Statisics | September 2017 - June 2022\n              \n              \n              Experience\n              RealMaster Technology Inc. | Sales Representative | Jan 2018 - Mar 2018\n              China International Beauty Expo | Marketing Assistant | Mar 2017\n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2022-02-07T18:15:58-05:00"
+    },
+    {
+      "path": "projects.html",
+      "title": "Hannah'sweb",
+      "description": "Hannah Xie\n",
+      "author": [
+        {
+          "name": "Hannah",
+          "url": "www.linkedin.com/in/hanxian-x-12849610b"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-02-07T16:00:48-05:00"
+    }
+  ],
+  "collections": []
+}
